@@ -2,7 +2,7 @@
 # PowerShell Scripts
 
 PowerShell automation tools for IT administration,
-security auditing, and endpoint management.
+security auditing, and endpoint management. Cleaned up and modernized with proper comments and format with the assistance of AI.
 
 ## Categories
 
