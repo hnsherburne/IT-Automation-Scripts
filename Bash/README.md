@@ -1,7 +1,7 @@
 # Bash Scripts
 
 Bash automation tools for system administration,
-security auditing, endpoint management, and troubleshooting.
+security auditing, endpoint management, and troubleshooting. Cleaned up and modernized with proper comments and format with the assistance of AI.
 
 ## Categories
 
